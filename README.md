@@ -1,4 +1,4 @@
-<h1 align="center">Buenas, mi nombre es Alonso Genao,</h1>
+<h1 align="center">¡Hola!, mi nombre es Alonso Genao,</h1>
 <h3 align="center">Y soy un estudiante de ingeniería de software muy apasionado y con muchas ganas de aprender</h3>
 
 - 🌱 Actualmente estoy aprendiendo **AspNetCore y C#**
