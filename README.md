@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Alonso</h1>
-<h3>A passionate Software Engineer student from Dominican Republic with a great desire to learn new thing</h3>
+<h1>Hi, I'm Alonso Genao 👋</h1>
+<h3>A passionate Software Engineer student from Dominican Republic with a great desire to learn new thing...</h3>
 
 - 🔭 I’m currently working on **TurboZone, a web application made with Blazor Web Assembly, .NET 8.0 and the clean architecture principle**
 
